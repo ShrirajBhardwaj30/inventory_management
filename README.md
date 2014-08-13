@@ -1,4 +1,4 @@
 inventory_management
 ====================
 
-Manage Inventory of a firm automatically
+Manage Inventory    of a firm automatically
